@@ -17,6 +17,8 @@
         <summary>
           1.sqlite
         </summary>
+          - scoop
+          - powershell
         </details>
         <details>
         <summary>
