@@ -1,4 +1,4 @@
-# **Daily I learned**
+# **Today I learned**
 
 ## SEP.2024
 <details>
