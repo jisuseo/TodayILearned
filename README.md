@@ -15,7 +15,7 @@
         - is declarative <br>
         <details>
         <summary>
-          # sqllite
+          # sqlite
         </summary>
         </details>
         <details>
