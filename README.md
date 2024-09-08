@@ -17,8 +17,12 @@
         <summary>
           1.sqlite
         </summary>
-          - scoop
-          - powershell
+          - scoop <br>
+          - powershell <br>
+          - Scoop is installed by default without admin privileges <br>
+          - scoop bucket add main
+          - scoop install main/sqlite
+          - sqlite3 <br>
         </details>
         <details>
         <summary>
