@@ -7,10 +7,10 @@
   </summary>
   - Learned basic git commands <br>
   - Practiced Git commit and push <br>
-    <details>
-      <summary> 
-      - SQL
-      </summary>
-        - 
+      <details>
+        <summary> 
+        - SQL
+        </summary>
+          - Relational Database
     </details>
 </details>
