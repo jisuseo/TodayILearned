@@ -36,11 +36,11 @@ scoop install main/sqlite </code></pre>
     <h4>09.SEP</h4>
   </summary>
   - Continuing SQLite study through Scoop following yesterday <br>
-  - Enter at the specified path in PowerShell<br>
-  <pre><code>New-Item database.db</code></pre><br>
+  - Enter at the specified path in PowerShell
+  <pre><code>New-Item database.db</code></pre>
   - Theory about Data Definition Language (DDL)
-  - comments <pre><code> -- </code></pre> <br>
-  - table = Sheet(Excel)<br>
+  - comments <pre><code> -- </code></pre>
+  - table = Sheet(Excel)
   - sqlite3
   <pre><code>create table movies (
 (x1...> titel,
@@ -49,10 +49,20 @@ scoop install main/sqlite </code></pre>
 (x1...> rating,
 (x1...> director
 (x1...> );</code></pre>
-  - to list all the tables in the database <br>
-  <pre><code>.tables</code></pre> <br>
-  - to check the structure of the 'movies' table <br>
+  - to list all the tables in the database 
+  <pre><code>.tables</code></pre>
+  - to check the structure of the 'movies' table 
   <pre><code>PRAGMA table_info(movies);</code></pre>
+  - INSERT INTO ... VALUES
+  <pre><code>INSERT INTO movies VALUES (
+(x1...> 'The Godfather',
+(x1...> 1980,
+(x1...> 'The best movie in the world',
+(x1...> 10,
+(x1...> 'F.F.C'
+(x1...> );</code></pre>
+  - to show
+  <pre><code>SELECT * FROM movies;</code></pre>
 </details>
 
 </details>
