@@ -1,9 +1,12 @@
 # **Today I learned**
-
-## SEP.2024
+## 2024
 <details>
   <summary>
-   08.SEP 
+    <h2>SEP.2024</h2>
+    </summary>
+<details>
+  <summary>
+   <h4>08.SEP </h4>
   </summary>
   - Learned basic git commands <br>
   - Practiced Git commit and push <br>
@@ -24,25 +27,13 @@
           - scoop install main/sqlite
           - sqlite3 <br>
         </details>
-        <details>
-        <summary>
-          2.MySQL
-        </summary>
-        </details>
-        <details>
-        <summary>
-          3.postgreSQL
-        </summary>
-        </details>
-        <details>
-        <summary>
-          4.MongoDB
-        </summary>
-        </details>
-        <details>
-        <summary>
-          5.Redis
-        </summary>
-        </details>
     </details>
+</details>
+<details>
+  <summary>
+    <h4>09.SEP</h4>
+  </summary>
+  - Enter at the specified path<br>
+  `New-Item database.db`
+</details>
 </details>
