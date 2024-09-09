@@ -63,6 +63,11 @@ scoop install main/sqlite </code></pre>
 (x1...> );</code></pre>
   - to show
   <pre><code>SELECT * FROM movies;</code></pre>
+  - to remove
+  <pre><code>DROP TABLE movies;</code></pre>
+  - To leave a value empty, input NULL or use
+  <pre><code>INSERT INTO movies (title, rating) VALUES ('TLOTR 2', 10);
+</code></pre>
 </details>
 
 </details>
