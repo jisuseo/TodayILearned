@@ -34,6 +34,6 @@
     <h4>09.SEP</h4>
   </summary>
   - Enter at the specified path<br>
-  `New-Item database.db`
+  <pre><code>New-Item database.db</code></pre>
 </details>
 </details>
