@@ -68,6 +68,8 @@ scoop install main/sqlite </code></pre>
   - To leave a value empty, input NULL or use
   <pre><code>INSERT INTO movies (title, rating) VALUES ('TLOTR 2', 10);
 </code></pre>
+  - to value type INTEGER (1,2,3...), REAL (1.2, 9.7 ...), BLOB (image) (binary large object)
+  
 </details>
 
 </details>
