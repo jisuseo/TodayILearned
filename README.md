@@ -75,6 +75,18 @@ scoop install main/sqlite </code></pre>
   <summary>
     <h4>11.SEP</h4>
   </summary>
+- constraint (제약조건) - A constraint helps control the data that can be entered into a column <br>
+- ex)
+<pre><code>CREATE TABLE movies (<br>
+title TEXT UNIQUE NOT NULL, <br>
+released INTEGER NOT NULL, <br>
+overview text NOT NULL, <br>
+rating REAL NOT NULL, <br>
+director TEXT, <br>
+for_kids INTEGER NOT NULL DEFAULT 0 <br>
+) STRICT;</code></pre>
+</code></pre>
+  
 </details>
 
 </details>
