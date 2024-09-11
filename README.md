@@ -71,5 +71,10 @@ scoop install main/sqlite </code></pre>
   - to value type INTEGER (1,2,3...), REAL (1.2, 9.7 ...), BLOB (image) (binary large object)
   
 </details>
+<details>
+  <summary>
+    <h4>11.SEP</h4>
+  </summary>
+</details>
 
 </details>
