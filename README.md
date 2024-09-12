@@ -92,6 +92,8 @@ for_kids INTEGER NOT NULL DEFAULT 0 <br>
   <summary>
     <h4>12.SEP</h4>
   </summary>
+- sqlite3 start
+  <pre><code>sqlite3 database.db</code></pre>
 - CHECK Constraint (강력한 제약조건)
 - 
   
