@@ -88,5 +88,12 @@ for_kids INTEGER NOT NULL DEFAULT 0 <br>
 </code></pre>
   
 </details>
-
+<details>
+  <summary>
+    <h4>12.SEP</h4>
+  </summary>
+- CHECK Constraint (강력한 제약조건)
+- 
+  
+</details>
 </details>
