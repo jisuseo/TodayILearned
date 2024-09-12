@@ -96,7 +96,7 @@ for_kids INTEGER NOT NULL DEFAULT 0 <br>
   <pre><code>sqlite3 database.db</code></pre>
 - configure user name and email in git <br>
   <pre><code>git config --global user.name "Your Name"
-    git config --global user.email "your-email@example.com</code></pre>
+git config --global user.email "your-email@example.com</code></pre>
 - to check the configuration
   <pre><code>git config --global --list</code></pre>
 - CHECK Constraint (강력한 제약조건)
