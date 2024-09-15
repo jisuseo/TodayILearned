@@ -127,6 +127,9 @@ git config --global user.email "your-email@example.com</code></pre>
   ==> <pre><code>python = ">=3.12,<4.0"</code></pre>
     <pre><code>
     - pip install pandas <br>
+    - pip install plotly <Br>
+    - pip install numpy <br>
+    - p
     - import pandas as pd <br>
     - df1 = pd.read_csv("path with Filename") <br>
     df1.head()<br>
@@ -137,6 +140,14 @@ git config --global user.email "your-email@example.com</code></pre>
     df1.info() <br> 
     df1.describe() <br>
     df1.isnull().sum() # 0 means not null in all Values <br>
+    </code></pre>
+    - functionization
+    <pre><code>def count_plot(df1, column):
+    fig = px.histogram(df1, x=column, title=f"Count plot of {column}",
+                 category_orders={column:df1[column].value_counts().index})
+    fig.show()
+    return fig <br>
+    f=countp_plot(df1, "Make")
     </code></pre>
 </details>
 </details>
