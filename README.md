@@ -136,7 +136,7 @@ git config --global user.email "your-email@example.com</code></pre>
     df1.nunique() <br>
     df1.info() <br> 
     df1.describe() <br>
-    df1.isnull().sum() <br>
+    df1.isnull().sum() # 0 null in all Values <br>
     </code></pre>
 </details>
 </details>
