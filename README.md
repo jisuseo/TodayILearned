@@ -117,6 +117,8 @@ git config --global user.email "your-email@example.com</code></pre>
   - git add . <br>
 - git commit -m "message" <br>
 - git push
+# At once
+-git add . && git commit -m "메시지" && git push origin main
   </code></pre>
 </details>
 </details>
