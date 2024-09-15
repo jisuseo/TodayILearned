@@ -120,10 +120,10 @@ git config --global user.email "your-email@example.com</code></pre>
 # At once
 -git add . && git commit -m "메시지" && git push origin main
   </code></pre>
-  - pip install poetry
-  - poetry new "project name"
-  - poetry init
-  - poetry python verseion 
+  - pip install poetry <br>
+  - poetry new "project name" <Br>
+  - poetry init <br>
+  - poetry python verseion <br>
   ==> <pre><code>python = ">=3.12,<4.0"</code></pre>
 </details>
 </details>
