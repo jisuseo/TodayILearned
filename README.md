@@ -125,5 +125,18 @@ git config --global user.email "your-email@example.com</code></pre>
   - poetry init <br>
   - poetry python verseion <br>
   ==> <pre><code>python = ">=3.12,<4.0"</code></pre>
+    <pre><code>
+    - pip install pandas <br>
+    - import pandas as pd <br>
+    - df1 = pd.read_csv("path with Filename") <br>
+    df1.head()<br>
+    df1.FraudFound_p.unique() # to find unique Value <Br>
+    df1.PolicyType.unique() # <br>
+    df1.shape <br>
+    df1.nunique() <br>
+      df1.info() <br> 
+      df1.describe() <br>
+      df1.isnull().sum() <br>
+    </code></pre>
 </details>
 </details>
