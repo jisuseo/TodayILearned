@@ -93,11 +93,27 @@ for_kids INTEGER NOT NULL DEFAULT 0 <br>
     <h4>12.SEP</h4>
   </summary>
 - sqlite3 start
+<<<<<<< HEAD
 <pre><code>sqlite3 database.db</code></pre> <br>
 - commit with visual studio code
 
+=======
+  <pre><code>sqlite3 database.db</code></pre>
+- configure user name and email in git <br>
+  <pre><code>git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com</code></pre>
+- to check the configuration
+  <pre><code>git config --global --list</code></pre>
+>>>>>>> 28fbadc5581444668e912df8330ded61eb23462a
 - CHECK Constraint (강력한 제약조건)
 - 
+  
+</details>
+<details>
+  <summary>
+    <h4>15.SEP</h4>
+  </summary>
+
   
 </details>
 </details>
