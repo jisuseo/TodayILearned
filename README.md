@@ -113,7 +113,8 @@ git config --global user.email "your-email@example.com</code></pre>
   <summary>
     <h4>15.SEP</h4>
   </summary>
-
-  
+  <pre><code>
+- git commit -m "message" <br>
+  </code></pre>
 </details>
 </details>
