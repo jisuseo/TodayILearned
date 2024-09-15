@@ -129,7 +129,6 @@ git config --global user.email "your-email@example.com</code></pre>
     - pip install pandas <br>
     - pip install plotly <Br>
     - pip install numpy <br>
-    - p
     - import pandas as pd <br>
     - df1 = pd.read_csv("path with Filename") <br>
     df1.head()<br>
