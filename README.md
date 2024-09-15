@@ -134,9 +134,9 @@ git config --global user.email "your-email@example.com</code></pre>
     df1.PolicyType.unique() # <br>
     df1.shape <br>
     df1.nunique() <br>
-      df1.info() <br> 
-      df1.describe() <br>
-      df1.isnull().sum() <br>
+    df1.info() <br> 
+    df1.describe() <br>
+    df1.isnull().sum() <br>
     </code></pre>
 </details>
 </details>
