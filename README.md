@@ -114,7 +114,9 @@ git config --global user.email "your-email@example.com</code></pre>
     <h4>15.SEP</h4>
   </summary>
   <pre><code>
+  - git add . <br>
 - git commit -m "message" <br>
+- git push
   </code></pre>
 </details>
 </details>
